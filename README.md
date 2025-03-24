@@ -1,4 +1,4 @@
-# CM2604CW
+# CM2604 Course Work - Predicting the term deposit subscription using Random Forest and Neural Network Models
 Predicting the term deposit subscription
 
 This project aims to predict whether a client will subscribe to a term deposit based on a dataset from a bank's marketing campaign. The project uses two machine learning models: a Random Forest Classifier and a Neural Network, and compares their performance based on various evaluation metrics.
